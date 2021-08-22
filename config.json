@@ -1,0 +1,10 @@
+{
+    "Google": {
+        "GOOGLE_CLIENT_ID": "",
+        "GOOGLE_CLIENT_SECRET": "",
+        "SERVER_ROOT_URI": "http://localhost:4000",
+        "UI_ROOT_URI": "http://localhost:3000",
+        "JWT_SECRET": "shhhhh",
+        "COOKIE_NAME": "auth_token"
+    }
+}
